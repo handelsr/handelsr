@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Handel. And I am a Full Stack Developer 👋
+## I enjoy facing new challenges, I am very **brave** and  ***smart***.
 
-<!--
-**handelsr/handelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What do I know?
 
-Here are some ideas to get you started:
+- JavaScript with React and JQuery
+- PHP
+- C# and ASP.NET
+- MySQL
+- SAP Hana
+- Microsoft SQL Server
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools I know how to use:
+
+- SAP Business One
+- Postman
+- Jenkins
+
+What am I learning?
+- React
+- REDUX
+- Jest
+- Tailwind
+
+
+I am 26 years old, I love helping people and serving God.
